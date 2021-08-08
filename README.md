@@ -1,6 +1,6 @@
 # LGMVIP-Datascience-
 
-## LetsGrowMore Data Science Intern 
+## LetsGrowMore Data Science Intern - Padmini Jain
 ## Title:- Iris Species Classification- ML Project
 ## Dataset link:- http://archive.ics.uci.edu/ml/datasets/Iris
 ### Summary:- 
